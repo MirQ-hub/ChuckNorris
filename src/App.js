@@ -41,7 +41,6 @@ function App() {
       <h3>Knock knock..</h3>
       <p>Here is Chuck Norris!</p>
    
-
       <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#myModal"><i class="bi bi-exclamation-octagon-fill"></i> Open joke <i class="bi bi-exclamation-octagon-fill"></i></button>
     </div>
     <div class="modal" id="myModal">
